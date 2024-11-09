@@ -9,12 +9,12 @@ DeepMIMO_Binary_Prediction/
 │
 │
 ├── assets/
-│   └── plot             	  # Saved encoder (encoder for car status)
+│   └── plot             	          # Saved results
 │
 ├── notbook/
-│   ├── DeepMIMO_Dataset.ipynb            # Script for training the model
-│   ├── Model_Training.ipynb              # Script for making predictions
-│   └── Model_Performanc.ipynb            # Model definition (PyTorch neural network)
+│   ├── DeepMIMO_Dataset.ipynb            # Script for dataset explore
+│   ├── Model_Training.ipynb              # Script for training the model
+│   └── Model_Performanc.ipynb            # Model performance tunning
 │
 │
 └── README.md                             # Project overview and instructions
